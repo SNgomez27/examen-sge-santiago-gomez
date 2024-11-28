@@ -1,0 +1,4 @@
+/events
+layers/**/*.class
+*.json
+node_modules/**
